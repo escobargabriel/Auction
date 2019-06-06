@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=leilao
+comment0.target=ListaLance(Leilao)
+comment1.target=ArrayList<Lance>\ getLista()
+comment2.params=cli
+comment2.target=void\ adicionarLance(Cliente)
+numComments=3

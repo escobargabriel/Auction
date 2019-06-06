@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=descricao\ vendedor\ lanceMinimo\ dia\ mes\ ano
+comment0.target=Leilao(String,\ String,\ double,\ int,\ int,\ int)
+comment1.params=valor
+comment1.target=void\ setMaiorLance(double)
+comment1.text=public\ ArrayList<Lance>\ getList(){\nreturn\ lista;\n}\n\n
+comment10.target=int\ getMes()
+comment11.target=int\ getAno()
+comment12.target=ListaLance\ getLista()
+comment13.target=String\ getDescricao()
+comment14.target=double\ getLanceMinimo()
+comment15.target=String\ toString()
+comment16.target=void\ simulaDia()
+comment2.target=double\ getMaiorLance()
+comment3.params=cli
+comment3.target=void\ adicionaLance(Cliente)
+comment4.params=vendedor
+comment4.target=void\ setVendedor(String)
+comment5.params=descricao
+comment5.target=void\ setDescricao(String)
+comment5.text=public\ void\ setDia(int\ dia){\nif(dia\ >\ 0\ &&\ dia\ <\ 32)\nthis.dia\ \=\ dia;\n}\npublic\ void\ setMes(int\ mes){\nif(mes\ >\ 0\ &&\ mes\ <\ 13)\nthis.mes\ \=\ mes;\n}\npublic\ void\ setAno(int\ ano){\nif(ano\ >\ 2000)\nthis.ano\ \=\ ano;\n}\n\n
+comment6.target=int\ getCodigo()
+comment7.params=lanceMinimo
+comment7.target=void\ setLanceMinimo(double)
+comment8.target=String\ getVendedor()
+comment9.target=int\ getDia()
+numComments=17

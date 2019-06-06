@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nome\ codigo\ saldo
+comment0.target=Cliente(String,\ String,\ double)
+comment1.params=nome
+comment1.target=void\ setNome(String)
+comment2.params=codigo
+comment2.target=void\ setCodigo(String)
+comment3.params=saldo
+comment3.target=void\ setSaldo(double)
+comment4.target=String\ getNome()
+comment5.target=String\ getCodigo()
+comment6.target=double\ getSaldo()
+comment7.target=String\ toString()
+numComments=8

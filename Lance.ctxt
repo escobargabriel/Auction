@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=valorLance\ c\ l
+comment0.target=Lance(double,\ Cliente,\ Leilao)
+comment1.params=valorLance
+comment1.target=void\ setValorLance(double)
+comment2.target=String\ getC()
+comment3.target=double\ getValorLance()
+comment4.target=String\ toString()
+numComments=5

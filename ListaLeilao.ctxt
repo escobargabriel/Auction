@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ListaLeilao()
+comment1.target=ArrayList<Leilao>\ getLista()
+comment10.target=String\ toString()
+comment2.params=atual
+comment2.target=void\ leilaoAndamento(Data)
+comment3.params=atual
+comment3.target=void\ leilaoEncerrado(Data)
+comment4.params=leilao
+comment4.target=void\ listaLance(Leilao)
+comment5.target=void\ adicionar()
+comment6.target=Leilao\ listaLeilao()
+comment7.target=boolean\ leilaoTerminado()
+comment8.target=void\ consultarLeilao()
+comment9.target=void\ deletarLeilao()
+numComments=11

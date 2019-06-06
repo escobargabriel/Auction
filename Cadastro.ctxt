@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cadastro()
+comment1.target=ArrayList<Cliente>\ getLista()
+comment2.target=void\ adicionar()
+comment3.target=Cliente\ login()
+comment4.target=void\ consultarCliente()
+comment5.target=void\ deletarCliente()
+comment6.target=String\ toString()
+numComments=7
